@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Youtube_Clone/static/css/main.4d40120b.css",
+    "main.js": "/Youtube_Clone/static/js/main.a4fb0ba9.js",
+    "static/media/Director.jpg": "/Youtube_Clone/static/media/Director.23c218086e0d61985c48.jpg",
+    "static/media/MainPic.jpg": "/Youtube_Clone/static/media/MainPic.3d5fdc1d8d2d5270bd79.jpg",
+    "static/media/CMB-LOGO.jpg": "/Youtube_Clone/static/media/CMB-LOGO.6695f131d53712a6d335.jpg",
+    "static/media/Assistant_director.jpg": "/Youtube_Clone/static/media/Assistant_director.1f81ac8c58fd4a6f3d2d.jpg",
+    "static/media/MainPic2.jpg": "/Youtube_Clone/static/media/MainPic2.bee21c371474a7cb1bf4.jpg",
+    "index.html": "/Youtube_Clone/index.html",
+    "main.4d40120b.css.map": "/Youtube_Clone/static/css/main.4d40120b.css.map",
+    "main.a4fb0ba9.js.map": "/Youtube_Clone/static/js/main.a4fb0ba9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d40120b.css",
+    "static/js/main.a4fb0ba9.js"
+  ]
+}
